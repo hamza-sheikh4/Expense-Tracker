@@ -48,7 +48,7 @@ const Main = () => {
   return (
     <div className="bg-yellow-300/30 w-2/4 px-5 py-2 rounded-[10px]">
     <h1 className="text-3xl text-white font-black text-center">Expense Tracker</h1>
-    <h1 className=" pt-2 tracking-wide text-center font-medium">Ik nyi scheme. 7 din me paisa double</h1>
+    <h1 className=" pt-2 tracking-wide text-center font-medium">Ik nyi scheme. 7 din me paisa double. Paisa hi Paisa hoga</h1>
     <h1 className="text-2xl font-semibold mt-12 text-center text-white">
       Total Balance: <span className="text-xl font-bold underline underline-offset-1">{totalBalance}$</span>
     </h1>
